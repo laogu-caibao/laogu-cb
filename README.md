@@ -47,6 +47,25 @@ https://github.com/laogu-caibao/laogu-cb/archive/refs/heads/main.zip
 
 本 skill 只陈述条款事实与测算结果，不做买卖推荐。强赎预警只陈述"距强赎触发价还差 X%"的事实，不做操作暗示。每份输出均带"个人观点，仅供参考，不构成投资建议"。
 
+## English
+
+**laogu-cb — Convertible bond tracker.** Whole-market CB screening, plain-language covenant reading, forced-redemption alerts, and yield-to-maturity math. Install: `npx skills add laogu-caibao/laogu-cb`.
+
+## FAQ
+
+**Q：laogu-cb 有什么用？**
+适合的场景：看可转债全景：筛选一览、条款白话解读、强赎预警、到期收益测算，一站式。
+
+**Q：数据可靠吗？会荐股吗？**
+数字必须来自可核验的公开来源（上市公司公告、交易所公开数据、公开网页），取不到就标「未核验」，绝不编造；只做结构化整理与解读，不构成投资建议。
+
+**Q：怎么安装？支持哪些 AI 平台？**
+```bash
+npx skills add laogu-caibao/laogu-cb
+```
+平台中立 Markdown，Claude Code、Codex、豆包智能体、Workbuddy、扣子 Coze、Trae 等环境均可用；数据能力可用 [laogu-mcp](https://github.com/laogu-caibao/laogu-mcp)（`uvx laogu-mcp`）一次装齐。更多 skill 见[老谷拆财报组织主页](https://github.com/laogu-caibao)。
+---
+
 ## 出品：老谷拆财报
 
 以数据为刃，剖市场真相。
