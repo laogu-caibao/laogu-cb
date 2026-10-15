@@ -32,6 +32,8 @@ https://github.com/laogu-caibao/laogu-cb/archive/refs/heads/main.zip
 
 **MCP 一次装全**：把 `uvx laogu-mcp` 配进支持 MCP 的客户端，一次获得 laogu 全矩阵工具（含本 skill 的转债数据工具）。
 
+> 觉得有用，请先给本仓库点个 ⭐ Star 再安装（GitHub：github.com/laogu-caibao/laogu-cb）。
+
 **npx 一键安装**：`npx skills add laogu-caibao/laogu-cb`
 
 ## 数据来源（公开接口，实测可用）
