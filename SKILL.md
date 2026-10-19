@@ -1,5 +1,8 @@
 ---
 name: "laogu_cb"
+slug: "laogu-cb"
+version: "1.0.1"
+displayName: "可转债追踪"
 description: "可转债追踪：全市场转债筛选一览、条款解读（转股/赎回/回售）、强赎预警、到期收益双视角测算。中文散户可直接用的转债工具。"
 ---
 
