@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="420" viewBox="0 0 1200 420"
+     role="img" aria-labelledby="title desc">
+  <title id="title">可转债追踪 — laogu-cb</title>
+  <desc id="desc">laogu-cb — 可转债追踪：全市场可转债一次看清贵不贵、安不安全、快不快到期：筛选一览、条款白话、强赎预警、到期收益测算。</desc>
+
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" rx="26" fill="#131110"/>
+  <line x1="688" y1="48" x2="688" y2="372" stroke="#2A251F" stroke-width="1.5"/>
+
+  <!-- 左：标题区 -->
+  <g id="title-block">
+    <text class="mono" x="56" y="80" font-size="17" letter-spacing="2" fill="#6D28D9">LAOGU-CAIBAO · AI SKILL</text>
+    <text class="sans" x="56" y="132" font-size="40" font-weight="700" fill="#F5F0E8">laogu-cb</text>
+    <text class="sans" x="56" y="172" font-size="23" font-weight="600" fill="#F5F0E8">可转债追踪</text>
+    <text class="sans" x="56" y="206" font-size="20" fill="#C9C2B8">全市场可转债一次看清贵不贵、安不安全、快不快到期：筛选一</text>
+    <text class="sans" x="56" y="232" font-size="20" fill="#C9C2B8">览、条款白话、强赎预警、到期收益测算。</text>
+
+    <rect x="56" y="258" width="600" height="52" rx="10" fill="#1B1713" stroke="#6D28D9" stroke-width="1.5"/>
+    <text class="mono" x="76" y="291" font-size="18" fill="#6D28D9">npx skills add laogu-caibao/laogu-cb</text>
+
+    <text class="sans" x="56" y="352" font-size="17" fill="#9A938A">v1.0.1 · SKILL.md 103 行 · references/sources.md · MIT</text>
+  </g>
+
+  <!-- 右：能力卡片 -->
+  <g id="capability">
+    <text class="mono" x="720" y="80" font-size="16" letter-spacing="2" fill="#6D28D9">WHAT IT DOES · 能力</text>
+    <g>
+      <rect x="720" y="96" width="424" height="50" rx="10" fill="#1B1713"/>
+      <circle cx="746" cy="121" r="14" fill="none" stroke="#6D28D9" stroke-width="1.5"/>
+      <text class="mono" x="746" y="127" font-size="16" font-weight="700" fill="#6D28D9" text-anchor="middle">1</text>
+      <text class="sans" x="772" y="117" font-size="20" font-weight="700" fill="#F5F0E8">全市场筛选一览</text>
+      <text class="sans" x="772" y="140" font-size="16" fill="#9A938A">价格 · 溢价率 · 到期收益 · 剩余规模</text>
+      <text class="sans" x="1116" y="128" font-size="20" font-weight="700" fill="#6D28D9">✓</text>
+    </g>
+    <g>
+      <rect x="720" y="152" width="424" height="50" rx="10" fill="#1B1713"/>
+      <circle cx="746" cy="177" r="14" fill="none" stroke="#6D28D9" stroke-width="1.5"/>
+      <text class="mono" x="746" y="183" font-size="16" font-weight="700" fill="#6D28D9" text-anchor="middle">2</text>
+      <text class="sans" x="772" y="173" font-size="20" font-weight="700" fill="#F5F0E8">条款白话解读</text>
+      <text class="sans" x="772" y="196" font-size="16" fill="#9A938A">转股价修正 · 赎回 · 回售条款</text>
+      <text class="sans" x="1116" y="184" font-size="20" font-weight="700" fill="#6D28D9">✓</text>
+    </g>
+    <g>
+      <rect x="720" y="208" width="424" height="50" rx="10" fill="#1B1713"/>
+      <circle cx="746" cy="233" r="14" fill="none" stroke="#6D28D9" stroke-width="1.5"/>
+      <text class="mono" x="746" y="239" font-size="16" font-weight="700" fill="#6D28D9" text-anchor="middle">3</text>
+      <text class="sans" x="772" y="229" font-size="20" font-weight="700" fill="#F5F0E8">强赎预警</text>
+      <text class="sans" x="772" y="252" font-size="16" fill="#9A938A">接近强赎触发价的转债，达标天数真的数出来</text>
+      <text class="sans" x="1116" y="240" font-size="20" font-weight="700" fill="#6D28D9">✓</text>
+    </g>
+    <g>
+      <rect x="720" y="264" width="424" height="50" rx="10" fill="#1B1713"/>
+      <circle cx="746" cy="289" r="14" fill="none" stroke="#6D28D9" stroke-width="1.5"/>
+      <text class="mono" x="746" y="295" font-size="16" font-weight="700" fill="#6D28D9" text-anchor="middle">4</text>
+      <text class="sans" x="772" y="285" font-size="20" font-weight="700" fill="#F5F0E8">到期收益双视角</text>
+      <text class="sans" x="772" y="308" font-size="16" fill="#9A938A">到期持有视角 + 转股视角，缺一不可</text>
+      <text class="sans" x="1116" y="296" font-size="20" font-weight="700" fill="#6D28D9">✓</text>
+    </g>
+  </g>
+</svg>
